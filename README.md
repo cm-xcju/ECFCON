@@ -1,5 +1,4 @@
-# ECFCON
-[ECFCON: Emotion Consequence Forecasting in Conversations](https://dl.acm.org/doi/10.1145/3664647.3681413)
+# [ECFCON: Emotion Consequence Forecasting in Conversations](https://dl.acm.org/doi/10.1145/3664647.3681413)
 
 ![image](https://github.com/user-attachments/assets/3a8e0491-01c9-4200-b795-ef44595b3120)
 
