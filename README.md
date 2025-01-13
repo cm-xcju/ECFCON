@@ -14,6 +14,39 @@
 ## Process
 ### step 1
 Select the parameter to train  
-`` bash train.sh ``
+``` bash train.sh ```
 
-
+## More details 
+We will update the details later. If any questions, please contact me by email.
+## Citation
+``` @inproceedings{DBLP:conf/mm/JuZZLLZ24,
+  author       = {Xincheng Ju and
+                  Dong Zhang and
+                  Suyang Zhu and
+                  Junhui Li and
+                  Shoushan Li and
+                  Guodong Zhou},
+  editor       = {Jianfei Cai and
+                  Mohan S. Kankanhalli and
+                  Balakrishnan Prabhakaran and
+                  Susanne Boll and
+                  Ramanathan Subramanian and
+                  Liang Zheng and
+                  Vivek K. Singh and
+                  Pablo C{\'{e}}sar and
+                  Lexing Xie and
+                  Dong Xu},
+  title        = {{ECFCON:} Emotion Consequence Forecasting in Conversations},
+  booktitle    = {Proceedings of the 32nd {ACM} International Conference on Multimedia,
+                  {MM} 2024, Melbourne, VIC, Australia, 28 October 2024 - 1 November
+                  2024},
+  pages        = {2233--2241},
+  publisher    = {{ACM}},
+  year         = {2024},
+  url          = {https://doi.org/10.1145/3664647.3681413},
+  doi          = {10.1145/3664647.3681413},
+  timestamp    = {Wed, 06 Nov 2024 22:17:27 +0100},
+  biburl       = {https://dblp.org/rec/conf/mm/JuZZLLZ24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
