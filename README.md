@@ -11,5 +11,9 @@
 * **video_features\Captions_13B_mingpt4** The feature of the visual modal.
 * **datasets\split_videos_scripts\coarse** the textual Scripts of the videos
 
+## Process
+### step 1
+Select the parameter to train  
+`` bash train.sh ``
 
 
