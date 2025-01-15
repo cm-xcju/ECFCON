@@ -3,12 +3,18 @@
 ![image](https://github.com/user-attachments/assets/3a8e0491-01c9-4200-b795-ef44595b3120)
 
 ## Datas #This need some time to upload.
+### checkpoint
 * **result** the checkpoints of the main model (ECFCON-BERT), i.e., Emocos [alipan](https://www.alipan.com/s/eR9amtnccpP) code: 018g
+### clues 
 * **Video_LLaVA\prompt.ECPF-C_all.clue3** The clues from MLLMs   [alipan](https://www.alipan.com/s/SNNS1RbTrgm) code:51lg
+#### dataset 
+[alipan](https://www.alipan.com/t/iMz9xxHGSI4egkZmLFF6). This data is too large to share.
+This link will only exist for one day, so ask for an update at github if needed. This will be addressed later.
 * **datasets\audio_features\source_hubert** The features of the audio, extracted by HuBert [alipan]
 * **video_features\Captions_13B_mingpt4**  The Caption of the visual information
 * **video_features\Captions_13B_mingpt4** The feature of the visual modal.
-* **datasets\split_videos_scripts\coarse** the textual Scripts of the videos
+* **datasets\split_videos_scripts\coarse** the textual Scripts of the videos.   
+   
 
 ## Process
 ### step 1
